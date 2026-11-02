@@ -1,0 +1,3 @@
+# #718 Dark controller skins — spec
+- Skin art: engine variant `dark`; palette body #050506, bezel #0D0D0F, controls #232327, stick knobs #2E2E33, stick wells #2A2A2F, labels/glyphs #6C6C74, D-pad arrows #4C4C54. Layout identical.
+- Console settings: "Default skin" row value = selected option name; tap opens a sheet (OeSheet) titled "Default skin", subtitle "The virtual controller every <console> game uses.", two RadioCards: "Console colors" / "The console's own colors." and "Dark" / "Black background and dark grey buttons, for playing with the lights off." If an imported skin exists: "A skin you imported for <console> is used instead."
