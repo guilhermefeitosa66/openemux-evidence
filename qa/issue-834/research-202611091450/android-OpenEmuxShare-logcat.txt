@@ -1,0 +1,21 @@
+--------- beginning of main
+11-09 17:38:55.668  3693  4022 W OpenEmuxShare: share send null failed: unreachable (failed to connect to /172.31.234.10 (port 53319) from /172.31.234.30 (port 51760) after 10000ms)
+11-09 17:41:18.679  3693  3712 I OpenEmuxShare: multicast lock released
+11-09 17:41:18.679  3693  3712 I OpenEmuxShare: share server stopped
+11-09 17:41:27.436  3693  3711 I OpenEmuxShare: share server listening on 53319
+11-09 17:41:27.437  3693  3711 I OpenEmuxShare: multicast lock acquired
+11-09 17:41:28.259  3693  3713 I OpenEmuxShare: nsd: registered sdk_gphone64_x86_64 (53af17)
+11-09 17:42:12.289  3693  3711 I OpenEmuxShare: multicast lock released
+11-09 17:42:12.289  3693  3711 I OpenEmuxShare: share server stopped
+11-09 17:42:20.713  3693  3711 I OpenEmuxShare: share server listening on 53319
+11-09 17:42:20.714  3693  3711 I OpenEmuxShare: multicast lock acquired
+11-09 17:42:21.674  3693  3713 I OpenEmuxShare: nsd: registered sdk_gphone64_x86_64 (53af17)
+11-09 17:44:15.880  3693  3711 I OpenEmuxShare: multicast lock released
+11-09 17:44:15.881  3693  3711 I OpenEmuxShare: share server stopped
+11-09 17:45:02.586  6833  6833 D OpenEmuxShare: share service created (sdk 35)
+11-09 17:45:22.173  6833  6864 I OpenEmuxShare: share server listening on 53319
+11-09 17:45:22.229  6833  6864 I OpenEmuxShare: multicast lock acquired
+11-09 17:45:23.075  6833  6862 I OpenEmuxShare: nsd: registered sdk_gphone64_x86_64 (53af17)
+11-09 17:46:44.126  9617  9617 D OpenEmuxShare: share service created (sdk 35)
+11-09 17:47:04.320  9617  9694 I OpenEmuxShare: share server listening on 53319
+11-09 17:47:04.328  9617  9694 I OpenEmuxShare: multicast lock acquired
